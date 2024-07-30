@@ -1,0 +1,469 @@
+my uuid = mcydvvdbhivmcayuudpbyc
+round_count=1
+street='preflop'
+declare action
+preflop 15  1 False 995 990
+last_act=None
+Qh5h 
+self.op_target=140.0 ca+self.pre_bet=10
+pot_odds=0.25 orig_pot_odds=0.25
+eq=0.52765 threat_rate=0.07142857142857142 threshold_eq=0.03214285714285714
+ischeck=None
+eq < 0.6, rand_act action='raise' amount=27.5
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'raise', 'amount': 27.5}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 27.5}
+street='flop'
+declare action
+flop 55.0 2d4d2h 1 False 972.5 972.5
+last_act=None
+Qh5h 2d4d2h
+self.op_target=140.0 ca+self.pre_bet=27.5
+pot_odds=0.005892857142857142 orig_pot_odds=0.0
+eq=0.42870191274446595 threat_rate=0.19642857142857142 threshold_eq=0.10839285714285715
+eq < 0.45, action='call' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 0}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 0}
+street='turn'
+declare action
+turn 55.0 2d4d2h9c 1 False 972.5 972.5
+last_act=None
+Qh5h 2d4d2h9c
+self.op_target=140.0 ca+self.pre_bet=27.5
+pot_odds=0.005892857142857142 orig_pot_odds=0.0
+eq=0.45928165007112376 threat_rate=0.19642857142857142 threshold_eq=0.10839285714285715
+eq < 0.6, rand_act action='call' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 0}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 0}
+street='river'
+declare action
+river 55.0 2d4d2h9c6d 1 False 972.5 972.5
+last_act=None
+Qh5h 2d4d2h9c6d
+self.op_target=140.0 ca+self.pre_bet=27.5
+pot_odds=0.005892857142857142 orig_pot_odds=0.0
+eq=0.3055555555555556 threat_rate=0.19642857142857142 threshold_eq=0.10839285714285715
+eq < 0.45, action='call' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 0}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 0}
+{'uuid': 'zlbuhlcabcrwcjbtnbofpb', 'hand': {'hand': {'strength': 'ONEPAIR', 'high': 2, 'low': 0}, 'hole': {'high': 11, 'low': 7}}}
+op_hole='Jc7d'
+op_hole='Jc7d' 
+op_hole='Jc7d' 2d4d2h
+op_hole='Jc7d' 2d4d2h9c
+op_hole='Jc7d' 2d4d2h9c6d
+-- Round result (UUID = mcydvvdbhivmcayuudpbyc) --
+======================================================================
+-- winners --
+  - me (mcydvvdbhivmcayuudpbyc) => state : participating, stack : 1027.5
+-- hand info --
+  - p1 (zlbuhlcabcrwcjbtnbofpb)
+    - hand => ONEPAIR (high=2, low=0)
+    - hole => [11, 7]
+  - me (mcydvvdbhivmcayuudpbyc)
+    - hand => ONEPAIR (high=2, low=0)
+    - hole => [12, 5]
+-- round state --
+  - dealer btn : p1
+  - street : showdown
+  - community card : ['D2', 'D4', 'H2', 'C9', 'D6']
+  - pot : main = 55.0, side = []
+  - players information
+    - 0 : p1 (zlbuhlcabcrwcjbtnbofpb) => state : participating, stack : 972.5 <= BB
+    - 1 : me (mcydvvdbhivmcayuudpbyc) => state : participating, stack : 1027.5 <= SB, CURRENT
+  - action histories
+    - preflop
+      - {'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'RAISE', 'amount': 27.5, 'paid': 22.5, 'add_amount': 17.5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 27.5, 'paid': 17.5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+    - flop
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+    - turn
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+    - river
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+======================================================================
+round_count=2
+street='preflop'
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 10}
+declare action
+preflop 20  2 True 1017.5 962.5
+last_act={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 10, 'community_card': ''}
+7s4h 
+self.op_target=162.5 ca+self.pre_bet=10
+pot_odds=0.0036923076923076922 orig_pot_odds=0.0
+eq=0.38545 threat_rate=0.06153846153846154 threshold_eq=0.06769230769230769
+eq < baseline_eq, last_resort action='call' amount=10
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 10}
+street='flop'
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 0}
+declare action
+flop 20 7hJd2s 2 True 1017.5 962.5
+last_act={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 0, 'community_card': '7hJd2s'}
+7s4h 7hJd2s
+self.op_target=162.5 ca+self.pre_bet=10
+pot_odds=0.0018461538461538461 orig_pot_odds=0.0
+eq=0.8020650953984287 threat_rate=0.06153846153846154 threshold_eq=0.047692307692307694
+eq > 0.6, bait action='raise' amount=97.5
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'raise', 'amount': 97.5}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'fold', 'amount': 0}
+-- Round result (UUID = mcydvvdbhivmcayuudpbyc) --
+======================================================================
+-- winners --
+  - me (mcydvvdbhivmcayuudpbyc) => state : participating, stack : 1037.0
+-- round state --
+  - dealer btn : me
+  - street : showdown
+  - community card : ['H7', 'DJ', 'S2', 'CK', 'DA']
+  - pot : main = 117.5, side = []
+  - players information
+    - 0 : p1 (zlbuhlcabcrwcjbtnbofpb) => state : folded, stack : 962.5 <= SB
+    - 1 : me (mcydvvdbhivmcayuudpbyc) => state : participating, stack : 1037.0 <= BB, CURRENT
+  - action histories
+    - preflop
+      - {'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 10, 'paid': 5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'CALL', 'amount': 10, 'paid': 0, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+    - flop
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'RAISE', 'amount': 97.5, 'paid': 97.5, 'add_amount': 97.5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'FOLD', 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+======================================================================
+round_count=3
+street='preflop'
+declare action
+preflop 15  3 False 1032.0 952.5
+last_act=None
+6sTs 
+self.op_target=162.25 ca+self.pre_bet=10
+pot_odds=0.25 orig_pot_odds=0.25
+eq=0.4894 threat_rate=0.061633281972265024 threshold_eq=0.02773497688751926
+eq < 0.6, rand_act action='call' amount=10
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 10}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 10}
+street='flop'
+declare action
+flop 20 5h2c3h 3 False 1027.0 952.5
+last_act=None
+6sTs 5h2c3h
+self.op_target=162.25 ca+self.pre_bet=10
+pot_odds=0.0018489984591679505 orig_pot_odds=0.0
+eq=0.34666554537044825 threat_rate=0.061633281972265024 threshold_eq=0.047734976887519265
+eq < 0.45, action='call' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 0}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 0}
+street='turn'
+declare action
+turn 20 5h2c3h3s 3 False 1027.0 952.5
+last_act=None
+6sTs 5h2c3h3s
+self.op_target=162.25 ca+self.pre_bet=10
+pot_odds=0.0018489984591679505 orig_pot_odds=0.0
+eq=0.35 threat_rate=0.061633281972265024 threshold_eq=0.047734976887519265
+eq < 0.45, action='call' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 0}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 0}
+street='river'
+declare action
+river 20 5h2c3h3s5d 3 False 1027.0 952.5
+last_act=None
+6sTs 5h2c3h3s5d
+self.op_target=162.25 ca+self.pre_bet=10
+pot_odds=0.0018489984591679505 orig_pot_odds=0.0
+eq=0.26974789915966385 threat_rate=0.061633281972265024 threshold_eq=0.047734976887519265
+eq < 0.45, action='call' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 0}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 0}
+{'uuid': 'zlbuhlcabcrwcjbtnbofpb', 'hand': {'hand': {'strength': 'TWOPAIR', 'high': 5, 'low': 3}, 'hole': {'high': 10, 'low': 4}}}
+op_hole='Tc4d'
+op_hole='Tc4d' 
+op_hole='Tc4d' 5h2c3h
+op_hole='Tc4d' 5h2c3h3s
+op_hole='Tc4d' 5h2c3h3s5d
+-- Round result (UUID = mcydvvdbhivmcayuudpbyc) --
+======================================================================
+-- winners --
+  - me (mcydvvdbhivmcayuudpbyc) => state : participating, stack : 1047.0
+-- hand info --
+  - p1 (zlbuhlcabcrwcjbtnbofpb)
+    - hand => TWOPAIR (high=5, low=3)
+    - hole => [10, 4]
+  - me (mcydvvdbhivmcayuudpbyc)
+    - hand => TWOPAIR (high=5, low=3)
+    - hole => [10, 6]
+-- round state --
+  - dealer btn : p1
+  - street : showdown
+  - community card : ['H5', 'C2', 'H3', 'S3', 'D5']
+  - pot : main = 20, side = []
+  - players information
+    - 0 : p1 (zlbuhlcabcrwcjbtnbofpb) => state : participating, stack : 952.5 <= BB
+    - 1 : me (mcydvvdbhivmcayuudpbyc) => state : participating, stack : 1047.0 <= SB, CURRENT
+  - action histories
+    - preflop
+      - {'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'CALL', 'amount': 10, 'paid': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 10, 'paid': 0, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+    - flop
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+    - turn
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+    - river
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+======================================================================
+round_count=4
+street='preflop'
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 46.97}
+declare action
+preflop 56.97  4 True 1037.0 905.53
+last_act={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 46.97, 'community_card': ''}
+9s4c 
+self.op_target=167.25 ca+self.pre_bet=46.97
+pot_odds=0.41039929809218934 orig_pot_odds=0.3935490738769427
+eq=0.38665 threat_rate=0.2808370702541106 threshold_eq=0.16637668161434976
+eq < pot_odds, last_resort action='fold' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'fold', 'amount': 0}
+-- Round result (UUID = mcydvvdbhivmcayuudpbyc) --
+======================================================================
+-- winners --
+  - p1 (zlbuhlcabcrwcjbtnbofpb) => state : participating, stack : 961.53
+-- round state --
+  - dealer btn : me
+  - street : showdown
+  - community card : ['SK', 'C3', 'H8', 'D9', 'S2']
+  - pot : main = 56.97, side = []
+  - players information
+    - 0 : p1 (zlbuhlcabcrwcjbtnbofpb) => state : participating, stack : 961.53 <= SB, CURRENT
+    - 1 : me (mcydvvdbhivmcayuudpbyc) => state : folded, stack : 1037.0 <= BB
+  - action histories
+    - preflop
+      - {'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'RAISE', 'amount': 46.97, 'paid': 41.97, 'add_amount': 36.97, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'FOLD', 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+======================================================================
+round_count=5
+street='preflop'
+declare action
+preflop 15  5 False 1032.0 951.53
+last_act=None
+Tc2c 
+self.op_target=147.735 ca+self.pre_bet=10
+pot_odds=0.25 orig_pot_odds=0.25
+eq=0.44835 threat_rate=0.0676887670491082 threshold_eq=0.03045994517209869
+eq < 0.45, action='call' amount=10
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 10}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 10}
+street='flop'
+declare action
+flop 20 6s9s8c 5 False 1027.0 951.53
+last_act=None
+Tc2c 6s9s8c
+self.op_target=147.735 ca+self.pre_bet=10
+pot_odds=0.002030663011473246 orig_pot_odds=0.0
+eq=0.3447901774451266 threat_rate=0.0676887670491082 threshold_eq=0.05045994517209869
+eq < 0.45, action='call' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 0}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 61.95580071919839}
+declare action
+flop 81.9558007191984 6s9s8c 5 False 1027.0 889.5741992808016
+last_act={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 61.95580071919839, 'community_card': '6s9s8c'}
+Tc2c 6s9s8c
+self.op_target=147.735 ca+self.pre_bet=71.9558007191984
+pot_odds=0.4743482937847855 orig_pot_odds=0.43051289889036065
+eq=0.3447901774451266 threat_rate=0.4870599432713872 threshold_eq=0.2791769744721242
+eq < pot_odds, last_resort action='fold' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'fold', 'amount': 0}
+-- Round result (UUID = mcydvvdbhivmcayuudpbyc) --
+======================================================================
+-- winners --
+  - p1 (zlbuhlcabcrwcjbtnbofpb) => state : participating, stack : 970.5741992808016
+-- round state --
+  - dealer btn : p1
+  - street : showdown
+  - community card : ['S6', 'S9', 'C8', 'CA', 'H5']
+  - pot : main = 81.9558007191984, side = []
+  - players information
+    - 0 : p1 (zlbuhlcabcrwcjbtnbofpb) => state : participating, stack : 970.5741992808016 <= BB, CURRENT
+    - 1 : me (mcydvvdbhivmcayuudpbyc) => state : folded, stack : 1027.0 <= SB
+  - action histories
+    - preflop
+      - {'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'CALL', 'amount': 10, 'paid': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 10, 'paid': 0, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+    - flop
+      - {'action': 'CALL', 'amount': 0, 'paid': 0, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'RAISE', 'amount': 61.95580071919839, 'paid': 61.95580071919839, 'add_amount': 61.95580071919839, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'FOLD', 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+======================================================================
+round_count=6
+street='preflop'
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 10}
+declare action
+preflop 20  6 True 1017.0 960.5741992808016
+last_act={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 10, 'community_card': ''}
+6s5c 
+self.op_target=133.2129003595992 ca+self.pre_bet=10
+pot_odds=0.00450406828753327 orig_pot_odds=0.0
+eq=0.3994 threat_rate=0.07506780479222117 threshold_eq=0.07378051215649953
+eq < baseline_eq, last_resort action='call' amount=10
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 10}
+street='flop'
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 81.01066551222009}
+declare action
+flop 101.01066551222009 Qd9sAs 6 True 1017.0 879.5635337685816
+last_act={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 81.01066551222009, 'community_card': 'Qd9sAs'}
+6s5c Qd9sAs
+self.op_target=133.2129003595992 ca+self.pre_bet=91.01066551222009
+pot_odds=0.5065491219033615 orig_pot_odds=0.44506138404922835
+eq=0.2323564040030275 threat_rate=0.6831970872681472 threshold_eq=0.36743868927066625
+eq < pot_odds, last_resort action='fold' amount=0
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'fold', 'amount': 0}
+-- Round result (UUID = mcydvvdbhivmcayuudpbyc) --
+======================================================================
+-- winners --
+  - p1 (zlbuhlcabcrwcjbtnbofpb) => state : participating, stack : 980.5635337685816
+-- round state --
+  - dealer btn : me
+  - street : showdown
+  - community card : ['DQ', 'S9', 'SA', 'H2', 'S2']
+  - pot : main = 101.01066551222009, side = []
+  - players information
+    - 0 : p1 (zlbuhlcabcrwcjbtnbofpb) => state : participating, stack : 980.5635337685816 <= SB, CURRENT
+    - 1 : me (mcydvvdbhivmcayuudpbyc) => state : folded, stack : 1017.0 <= BB
+  - action histories
+    - preflop
+      - {'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 10, 'paid': 5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'CALL', 'amount': 10, 'paid': 0, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+    - flop
+      - {'action': 'RAISE', 'amount': 81.01066551222009, 'paid': 81.01066551222009, 'add_amount': 81.01066551222009, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'FOLD', 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+======================================================================
+round_count=7
+street='preflop'
+declare action
+preflop 15  7 False 1012.0 970.5635337685816
+last_act=None
+8sJd 
+self.op_target=113.21823311570921 ca+self.pre_bet=10
+pot_odds=0.25 orig_pot_odds=0.25
+eq=0.51485 threat_rate=0.08832499611418582 threshold_eq=0.03974624825138362
+eq < 0.6, rand_act action='call' amount=10
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 10}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 67.22}
+declare action
+preflop 77.22  7 False 1007.0 913.3435337685816
+last_act={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 67.22, 'community_card': ''}
+8sJd 
+self.op_target=113.21823311570921 ca+self.pre_bet=67.22
+pot_odds=0.46124061321379095 orig_pot_odds=0.42561737578101755
+eq=0.49485 threat_rate=0.593720623879557 threshold_eq=0.30717428074580067
+eq < 0.6, rand_act action='call' amount=67.22
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'call', 'amount': 67.22}
+street='flop'
+declare action
+flop 134.44 7dAs8d 7 False 949.78 913.3435337685816
+last_act=None
+8sJd 7dAs8d
+self.op_target=113.21823311570921 ca+self.pre_bet=67.22
+pot_odds=0.01781161871638671 orig_pot_odds=0.0
+eq=0.6891454567014866 threat_rate=0.593720623879557 threshold_eq=0.2871742807458007
+eq > 0.6, bait action='raise' amount=44.81333333333332
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'raise', 'amount': 44.81333333333332}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 132.76154571159285}
+declare action
+flop 312.01487904492615 7dAs8d 7 False 904.9666666666667 780.5819880569887
+last_act={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 132.76154571159285, 'community_card': '7dAs8d'}
+8sJd 7dAs8d
+self.op_target=113.21823311570921 ca+self.pre_bet=199.98154571159284
+pot_odds=0.30989082058875494 orig_pot_odds=0.21989082058875498
+eq=0.6891454567014866 threat_rate=1 threshold_eq=0.51
+eq > 0.6, agg action='raise' amount=303.8110758395378
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'raise', 'amount': 303.8110758395378}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 474.8606059674828}
+declare action
+flop 913.1116818070207 7dAs8d 7 False 645.9689241604622 438.48292780109875
+last_act={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'raise', 'amount': 474.8606059674828, 'community_card': '7dAs8d'}
+8sJd 7dAs8d
+self.op_target=113.21823311570921 ca+self.pre_bet=542.0806059674828
+pot_odds=0.2777713058214497 orig_pot_odds=0.1577713058214497
+eq=0.6891454567014866 threat_rate=1 threshold_eq=0.5700000000000001
+eq > 0.6, agg action='raise' amount=1018.6026078818722
+new_action={'player_uuid': 'mcydvvdbhivmcayuudpbyc', 'action': 'raise', 'amount': 949.78}
+new_action={'player_uuid': 'zlbuhlcabcrwcjbtnbofpb', 'action': 'call', 'amount': 949.78}
+street='turn'
+street='river'
+{'uuid': 'zlbuhlcabcrwcjbtnbofpb', 'hand': {'hand': {'strength': 'ONEPAIR', 'high': 14, 'low': 0}, 'hole': {'high': 14, 'low': 5}}}
+op_hole='Ac5d'
+op_hole='Ac5d' 
+op_hole='Ac5d' 7dAs8d
+op_hole='Ac5d' 7dAs8d
+op_hole='Ac5d' 7dAs8d
+-- Round result (UUID = mcydvvdbhivmcayuudpbyc) --
+======================================================================
+-- winners --
+  - p1 (zlbuhlcabcrwcjbtnbofpb) => state : allin, stack : 1961.0
+-- hand info --
+  - p1 (zlbuhlcabcrwcjbtnbofpb)
+    - hand => ONEPAIR (high=14, low=0)
+    - hole => [14, 5]
+  - me (mcydvvdbhivmcayuudpbyc)
+    - hand => ONEPAIR (high=8, low=0)
+    - hole => [11, 8]
+-- round state --
+  - dealer btn : p1
+  - street : showdown
+  - community card : ['D7', 'SA', 'D8', 'C4', 'DK']
+  - pot : main = 1961.1270675371632, side = [{'amount': 36.436466231418535, 'eligibles': ['mcydvvdbhivmcayuudpbyc']}, {'amount': 0.0, 'eligibles': ['mcydvvdbhivmcayuudpbyc']}]
+  - players information
+    - 0 : p1 (zlbuhlcabcrwcjbtnbofpb) => state : allin, stack : 1961.0 <= BB
+    - 1 : me (mcydvvdbhivmcayuudpbyc) => state : allin, stack : 36.0 <= SB
+  - action histories
+    - preflop
+      - {'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'CALL', 'amount': 10, 'paid': 5, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'RAISE', 'amount': 67.22, 'paid': 57.22, 'add_amount': 57.22, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'CALL', 'amount': 67.22, 'paid': 57.22, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+    - flop
+      - {'action': 'RAISE', 'amount': 44.81333333333332, 'paid': 44.81333333333332, 'add_amount': 44.81333333333332, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'RAISE', 'amount': 132.76154571159285, 'paid': 132.76154571159285, 'add_amount': 87.94821237825953, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'RAISE', 'amount': 303.8110758395378, 'paid': 258.9977425062045, 'add_amount': 171.04953012794496, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'RAISE', 'amount': 474.8606059674828, 'paid': 342.09906025589, 'add_amount': 171.049530127945, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+      - {'action': 'RAISE', 'amount': 949.78, 'paid': 645.9689241604622, 'add_amount': 474.9193940325172, 'player': 'me (uuid=mcydvvdbhivmcayuudpbyc)'}
+      - {'action': 'CALL', 'amount': 913.3435337685816, 'paid': 438.48292780109875, 'player': 'p1 (uuid=zlbuhlcabcrwcjbtnbofpb)'}
+======================================================================
+{
+    "rule": {
+        "initial_stack": 1000,
+        "max_round": 20,
+        "small_blind_amount": 5,
+        "ante": 0,
+        "blind_structure": {}
+    },
+    "players": [
+        {
+            "name": "p1",
+            "uuid": "zlbuhlcabcrwcjbtnbofpb",
+            "stack": 1961.0,
+            "state": "participating"
+        },
+        {
+            "name": "me",
+            "uuid": "mcydvvdbhivmcayuudpbyc",
+            "stack": 36.0,
+            "state": "participating"
+        }
+    ]
+}

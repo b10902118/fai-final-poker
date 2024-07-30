@@ -1,0 +1,3141 @@
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+__cxa_finalize
+_Py_NoneStruct
+PyDict_New
+PyExc_TypeError
+PyErr_Format
+PyExc_SystemError
+PyErr_SetString
+PyDict_Size
+PyObject_GetAttr
+PyMethod_New
+PyUnicode_InternFromString
+PyUnicode_FromFormat
+_PyThreadState_UncheckedGet
+PyFrame_New
+PyEval_EvalFrameEx
+_Py_Dealloc
+PyObject_Free
+PyObject_GC_UnTrack
+PyObject_ClearWeakRefs
+PyObject_GC_Del
+PyObject_GetAttrString
+PyDict_SetItemString
+PyExc_AttributeError
+PyErr_ExceptionMatches
+PyErr_Clear
+PyThreadState_Get
+PyInterpreterState_GetID
+PyExc_ImportError
+PyModule_NewObject
+PyModule_GetDict
+PyUnicode_FromString
+PyDict_GetItemWithError
+PyErr_Occurred
+PyExc_KeyError
+PyErr_SetObject
+PyTuple_Pack
+PyTuple_GetSlice
+PyTuple_GetItem
+PyList_New
+PyImport_ImportModuleLevelObject
+_PyObject_GC_New
+PyObject_GC_Track
+PyLong_Type
+PyLong_FromLong
+PyFloat_Type
+PyNumber_Subtract
+PyFloat_FromDouble
+_Py_CheckRecursionLimit
+PyEval_EvalCodeEx
+_Py_CheckRecursiveCall
+PyDict_Next
+PyUnicode_Compare
+__stack_chk_fail
+PyBaseObject_Type
+PyErr_GivenExceptionMatches
+PyExc_NameError
+_PyDict_GetItem_KnownHash
+PyTuple_New
+PyObject_Call
+PyFunction_Type
+PyCFunction_Type
+_PyObject_GetDictPtr
+_Py_FalseStruct
+_Py_TrueStruct
+PyObject_Not
+PyObject_SetAttr
+PyTraceBack_Here
+PyUnicode_AsUTF8
+PyCode_NewEmpty
+PyMem_Realloc
+PyMem_Malloc
+PyExc_RuntimeError
+Py_GetVersion
+PyOS_snprintf
+PyErr_WarnEx
+PyFrame_Type
+PyBytes_FromStringAndSize
+PyUnicode_FromStringAndSize
+PyImport_AddModule
+PyType_Ready
+PyObject_SetAttrString
+PyUnicode_Decode
+PyObject_Hash
+__pyx_module_is_main_baseline2
+PyImport_GetModuleDict
+PyDict_GetItemString
+PyCode_New
+PyDict_SetItem
+PyType_IsSubtype
+PyType_Type
+PyObject_SetItem
+PyList_Append
+PyDict_Type
+_PyDict_SetItem_KnownHash
+PyObject_GetItem
+PyNumber_Multiply
+PyObject_Size
+PyLong_FromSsize_t
+PyMethod_Type
+PyNumber_Add
+Py_OptimizeFlag
+PyExc_AssertionError
+PyErr_SetNone
+PyList_Type
+PyTuple_Type
+PyExc_StopIteration
+PyObject_IsTrue
+PySequence_Contains
+PyObject_GetIter
+PyObject_RichCompare
+PyNumber_TrueDivide
+PySlice_New
+PyInit_baseline2
+PyModuleDef_Init
+libc.so.6
+GLIBC_2.2.5
+GLIBC_2.4
+ATUSD
+t5H;
+]A\A]A^
+AVAUI
+ATUQ
+x%E1
+]A\A]A^
+ZA\A]
+AWAVI
+AUATUH
+A\A]A^A_
+ATUH
+l$ I
+|$HI
+l$XI
+\$`L
+[]A\A]A^A_
+AWAVAUI
+ATUSH
+t'H9
+H9E tqH
+$u7L
+RRPRR
+RRPRR
+]A\H
+RRPRR
+AYAZH
+RRPRR
+AQj 
+RRPRR
+AQj(
+RRPRR
+AQj0
+RRPRR
+A]A^H
+AQj4
+RRPRR
+AQj;
+RRPRR
+AQj>
+RRPRR
+AQjV
+RRPRR
+AQj\
+RRPRR
+AQj`
+RRPRR
+AQjc
+RRPRR
+AQjf
+RRPRR
+AQji
+PPPPP
+$u3L
+I9\$
+I9\$
+I9\$
+I9\$
+I9\$
+I9\$
+I9\$
+[]A\A]A^A_
+u+UH
+xeIc
+AUATI
+E [L
+]A\A]A^
+ATSH
+ATUSH
+~"Hc
+AVAUATI
+~+E1
+[]A\A]A^
+ATUH
+AVAUI
+]A\A]A^
+]A\A]A^
+t#H;5
+ t?H
+t4H9
+ u%H
+t4H9
+ tVL
+AWAVAUI
+[]A\A]A^A_
+u	IcW
+AWAVAUATI
+|$(L
+t$ L
+l$0dH
+D$81
+t$ H
+H92u
+T$(H
+L$(H
+t$ f.
+\$8dH3
+H[]A\A]A^A_
+t$ H
+tbH;t
+A\A]
+A\A]
+ATUH
+[]A\A]
+[]A\A]
+AUATI
+[]A\A]
+[]A\A]
+]A\A]
+ATUH
+[]A\A]
+AWAVAUI
+t-E1
+([]A\A]A^A_
+([]A\A]A^A_
+j@Ic
+AUATUSH
+D$(1
+L$(dH3
+8[]A\A]
+AUATUSH
+([]A\A]
+AUATUSH
+([]A\A]
+AVAUATUH
+I9\$
+ []A\A]A^
+AWAVAUATUSH
+D$(1
+P A;
+D$(dH3
+[]A\A]A^A_
+\$ H
+\$ H
+AWAVAUATI
+D$81
+D$8dH3
+[]A\A]A^A_
+D$(I
+D$(H
+D$ I
+D$ H
+D$(H
+t$ H
+D$ H
+AVAUATUSH
+[]A\A]A^
+AWAVAUATUH
+D$(1
+D$(dH3
+[]A\A]A^A_
+AWAVAUI
+ATUH
+D$(1
+\$(dH3
+8[]A\A]A^A_
+AWAVAUATUSH
+D$X1
+\$PH
+P A;
+H;-\
+u	H9
+D$HH
+D$(M
+I9\$
+P ;U
+I;G 
+D$XdH3
+[]A\A]A^A_
+D$HI
+l$(H
+D$0L
+I9|$
+\$ L
+L$ L
+I;G 
+l$ M
+I9\$
+I;F 
+L$ 1
+L$ L
+l$(L
+T$PL
+\$0L
+\$0L
+\$0L
+\$0L
+l$(L
+D$PI
+l$ 1
+l$ E1
+l$ 1
+L$ H
+l$ H
+l$ H
+l$(I
+L$ L
+l$(L
+\$ I
+\$ H
+l$(I
+D$(L
+D$(H
+l$ L
+l$ M
+l$ L
+l$ L
+L$ L
+l$ L
+T$ L
+T$ I
+D$ H
+t$01
+AWAVAUATUSH
+D$h1
+T$ L
+T$ H
+L$ L
+L;5L
+L;5$
+D$ L
+L$ H
+L$ L
+D$hdH3
+[]A\A]A^A_
+D$XH
+D$PH
+D$HH
+T$@E1
+d$HH
+D$PH
+T$ L
+T$ L
+D$XH
+D$HL
+|$@H
+\$XH
+D$PH
+T$@L)
+T$ H
+D$PL
+T$ H
+T$ H
+T$ L
+T$ L
+T$ L
+T$ L
+D$@H
+D$HH
+D$PH
+T$ L
+T$ L
+L$ L
+T$ L
+H;-1
+H;-?
+T$@L
+t$8L
+T$ I
+t$8L
+AWAVAUATUSH
+D$(1
+I9L$
+H;-z
+I;E 
+L$(dH3
+8[]A\A]A^A_
+$taH
+@t|H
+@t4H9
+AWAVAUATUSH
+D$h1
+L$ L
+L$ L
+D$HH
+L$ H
+L$ L
+D$ H
+D$(H
+D$ A
+T$ L
+D$(I
+H;C 
+D$0A
+t$(H
+H;F 
+D$PH
+D$hdH3
+[]A\A]A^A_
+D$XH
+D$`H
+D$XL
+t$PL
+l$`H
+D$`H
+D$XH
+L$PE1
+d$XH
+|$`H
+|$ H
+t$(L
+t$(L
+t$(L
+t$(L
+t$(L
+T$0L
+L$PH)
+d$XL
+D$XH
+\$(H
+\$(E1
+T$PL
+T$PE1
+t$XL
+T$PL
+t$XH
+t$ L
+D$0M
+\$(E1
+D$0L
+t$ I
+\$(M
+D$0L
+t$ M
+\$(M
+|$(L
+t$ L
+D$0L
+\$(M
+t$ L
+D$0M
+D$0L
+t$ I
+D$0L
+t$ I
+\$(M
+D$0L
+t$ H
+l$8L
+L$8I
+t$ L
+D$0H
+L$8L
+D$0L
+L$8L
+D$(H
+D$HH
+L$0H
+t$(L
+L$0L
+D$0L
+\$0L
+\$0L
+\$0L
+l$PH
+D$XH
+\$8H
+L$0H
+\$8H
+t$ L
+D$0M
+d$(E1
+\$(H
+d$(M
+d$(E1
+t$(L
+d$(1
+d$(L
+d$(M
+l$PH
+D$XH
+D$0L
+D$0H
+d$(E1
+AVAUI
+ATUSH
+D$(1
+I;D$ 
+I;D$ 
+D$(dH3
+[]A\A]A^A_
+@t4H9
+AWAVAUATUSH
+D$h1
+D$(1
+D$HH
+D$ M
+I9|$
+I;G 
+|$(H
+L$ L
+D$ L
+L$(H
+B A;
+I;F 
+\$8H
+D$0H
+\$8H
+I;G 
+D$hdH3
+[]A\A]A^A_
+L$(L
+D$ H
+L$ L
+L$ H
+T$(L
+L$ L
+L$ L
+T$(L
+L$ L
+T$(L
+L$ L
+T$ L
+T$ L
+D$PH
+D$XH
+D$PL
+d$XH
+I;D$ 
+D$XH
+T$PL
+D$(H
+L$XH
+L$(L
+D$ E1
+T$ L
+T$ L
+T$8I
+D$(H
+L$XH
+L$(L
+L$(L
+L$(L
+D$ I
+L$(L
+@t8H9
+T$ L
+t$ 1
+L$ L
+D$0H
+D$ L
+D$ L
+L$(H
+D$ L
+L$ L
+T$ L
+T$ M
+L$ L
+AWAVAUATUSH
+D$x1
+l$hH
+n0L;-
+L$ H
+\$0I
+D$0H
+D$HH
+P A;
+t$0L
+\$(H
+t$ Hc
+P A;
+L$(1
+H;E 
+T$(H
+D$8L
+T$(H
+l$HH
+t$0H
+D$xdH3
+[]A\A]A^A_
+H;-!X
+D$hH
+D$`H
+D$XH
+D$PL
+l$hL;-
+D$0H
+D$XH
+D$ H
+D$`H
+\$PH
+t$XH
+t$`H
+t$hHc
+\$(H
+D$ Hc
+\$PL
+\$(H
+D$XH
+D$`H
+\$(H
+u*E1
+D$PH
+D$XH
+D$`H
+D$hI
+D$PL
+l$hL;-	Q
+D$0H
+D$XH
+D$ H
+D$`H
+\$(I
+D$8H
+\$(H
+T$PL
+D$PL
+l$hL;-
+D$0H
+D$XH
+D$ H
+D$`H
+L;-yN
+H;5#L
+@t4H9
+%.200s() takes no arguments (%zd given)
+%.200s() takes exactly one argument (%zd given)
+Bad call flags in __Pyx_CyFunction_Call. METH_OLDARGS is no longer supported!
+%.200s() takes no keyword arguments
+Interpreter change detected - this module can only be loaded into one interpreter per process.
+unbound method %.200S() needs an argument
+__annotations__ must be set to a dict object
+__kwdefaults__ must be set to a dict object
+__defaults__ must be set to a tuple object
+function's dictionary may not be deleted
+setting function's dictionary to a non-dict
+__qualname__ must be set to a string object
+__name__ must be set to a string object
+ while calling a Python object
+%s() got multiple values for keyword argument '%U'
+%.200s() keywords must be strings
+%s() got an unexpected keyword argument '%U'
+NULL result without error in PyObject_Call
+/home/tunhsiang/courses/FAI/final_project/agents/baseline2.c
+%.200s() takes %.8s %zd positional argument%.1s (%zd given)
+baseline2.Baseline2Player.receive_round_result_message
+baseline2.Baseline2Player.receive_game_update_message
+baseline2.Baseline2Player.receive_street_start_message
+Module 'baseline2' has already been imported. Re-initialisation is not supported.
+compiletime version %s of module '%.100s' does not match runtime version %s
+Shared Cython type %.200s is not a type object
+Shared Cython type %.200s has the wrong size, try recompiling
+metaclass conflict: the metaclass of a derived class must be a (non-strict) subclass of the metaclasses of all its bases
+baseline2.Baseline2Player.receive_game_start_message
+baseline2._fill_community_card
+baseline2.Baseline2Player.receive_round_start_message
+baseline2.Baseline2Player.__init__
+baseline2.Baseline2Player.declare_action
+'%.200s' object is unsliceable
+baseline2._montecarlo_simulation
+baseline2.estimate_hole_card_win_rate
+<cyfunction %U at %p>
+__loader__
+loader
+__file__
+origin
+__package__
+parent
+__path__
+submodule_search_locations
+cannot import name %S
+name '%U' is not defined
+%s (%s:%d)
+exactly
+receive_round_result_message
+baseline2.py
+receive_game_update_message
+receive_street_start_message
+%d.%d
+_cython_0_29_35
+builtins
+cython_runtime
+__builtins__
+init baseline2
+receive_game_start_message
+_fill_community_card
+receive_round_start_message
+baseline2.setup_ai
+baseline2.evaluate_hand
+at least
+at most
+__init__
+super(): empty __class__ cell
+baseline2.gen_deck
+declare_action
+baseline2.find_user_by_uuid
+_montecarlo_simulation
+baseline2.gen_cards
+baseline2._pick_unused_card
+estimate_hole_card_win_rate
+cython_function_or_method
+__reduce__
+__module__
+func_doc
+__doc__
+func_name
+__name__
+__qualname__
+__self__
+func_dict
+__dict__
+func_globals
+__globals__
+func_closure
+__closure__
+func_code
+__code__
+func_defaults
+__defaults__
+__kwdefaults__
+__annotations__
+Baseline2Player.receive_street_start_message
+Baseline2Player.receive_round_start_message
+Baseline2Player.receive_round_result_message
+Baseline2Player.receive_game_update_message
+Baseline2Player.receive_game_start_message
+Baseline2Player.declare_action
+receive_street_start_message
+receive_round_result_message
+receive_round_start_message
+receive_game_update_message
+estimate_hole_card_win_rate
+receive_game_start_message
+game.engine.hand_evaluator
+Baseline2Player.__init__
+_montecarlo_simulation
+_fill_community_card
+small_blind_amount
+gen_hand_rank_info
+cline_in_traceback
+round_start_stack
+find_user_by_uuid
+_pick_unused_card
+game.engine.deck
+game.engine.card
+big_blind_amount
+opponents_score
+Baseline2Player
+BasePokerPlayer
+opponents_hole
+declare_action
+community_card
+valid_actions
+nb_simulation
+exclude_cards
+evaluate_hand
+HandEvaluator
+unused_cards
+game.players
+baseline2.py
+round_state
+round_count
+exclude_ids
+player_num
+base_cards
+win_count
+used_card
+nb_player
+__metaclass__
+max_round
+hole_card
+hand_info
+gen_cards
+game_info
+eval_hand
+cards_str
+baseline2
+win_rate
+strength
+setup_ai
+__qualname__
+need_num
+my_score
+gen_deck
+from_str
+deck_ids
+card_num
+winners
+__prepare__
+from_id
+choiced
+card_id
+unused
+street
+sample
+random
+player
+__module__
+__import__
+amount
+action
+to_id
+super
+stack
+seats
+range
+uuid
+used
+__test__
+self
+rule
+__name__
+__main__
+__init__
+hole
+hand
+card
+Deck
+Card
+__doc__
+:*3$"
+GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0
+X	YD
+x	pK
+0	h:
+ 	WB
+@	eN
+8	hM
+h	Y(
+x	8X
+ $		
+'	 5
+ 	T-
++>	r
+(	^ 
+8	zO
+P	V5
+8	.C
+H	}=
+P	Q=
+(	AJ
+0	dG
+8	z	
+`	`"
+2#	r
+2)	r
+2*	r
+p	v,
+t	8@
+"_ts
+7<	r
+7A	r
+7F	r
+7G	r
+8	"C
+H	]6
+7^	r
+7c	r
+$_is
+7+&9
+8	LF
+@	q=
+P	1Z
+X	0)
+AC	r
+ 'aZ
+8'.C
+p',0
+B$4]F
+/)6 
+-err
+-err
+.res
+#83 
+#I3 
+.mro
+#(3 
+#93 
+/.one
+4bad
+&!	HK
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+!	yS
+	6y0
+	6y0
+	6y0
+!	5U
+ &4$
+r!	6y0
+	6y0
+	6y0
+	6y0
+4bad
+\!*r
+.pos
+]!	r
+.tmp
+/)w 
+N!1r
+.pos
+P!	r
+9!Or
+9!Zr
+:!	r
+Hmid
+Hend
+ !VZ
+-mkw
+-mkw
+-doc
+4bad
+/)MY
+x 93 
+x N9
+.tmp
+k <r
+k M9
+l 19
+l D9
+l V9
+l i9
+Z G9
+Z W9
+-arg
+Jarg
+Jobj
+-arg
+	6y0
+.tmp
+.tmp
+.tmp
+Hres
+UG=:
+UG=:
+UG=:
+.tmp
+.tmp
+.tmp
+Htmp
+	6y0
+4bad
+4bad
+-obj
+-obj
+4bad
+/)h6
+-op1
+-op2
+	E;u
+.llb
+.lla
+.llx
+-op1
+-op2
+	E+v
+.llb
+.lla
+.llx
+-arg
+Jarg
+-arg
+-arg
+/.pos
+-key
+/)@;
+.key
+.pos
+4bad
+.cmp
+/.cmp
+-obj
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+Jdef
+4bad
+	6y0
+/.tmp
+ 6cv
+	6y0
+	6y0
+/.tmp
+/)g9
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+/.tmp
+/.tmp
+/.tmp
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+/.tmp
+	6y0
+	6y0
+	6y0
+.tmp
+/.tmp
+.tmp
+/.tmp
+.tmp
+/.tmp
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+ 6cv
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+/.tmp
+/)g9
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+.tmp
+/.tmp
+.tmp
+.tmp
+/.tmp
+/.tmp
+/)g9
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+/.tmp
+/.tmp
+/)g9
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+j	H9
+j	^9
+.tmp
+/.tmp
+.tmp
+.tmp
+/.tmp
+.tmp
+.tmp
+/.tmp
+1	:9
+1	P9
+1	f9
+		6C0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+.tmp
+.tmp
+/.tmp
+/)g9
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+.tmp
+/.tmp
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+/.tmp
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+-seq
+.len
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+	6y0
+ /usr/include/python3.8/object.h
+/home/tunhsiang/courses/FAI/final_project/agents
+/usr/include/python3.8
+/usr/lib/gcc/x86_64-linux-gnu/9/include
+/usr/include/x86_64-linux-gnu/bits
+/usr/include/x86_64-linux-gnu/bits/types
+/usr/include
+/usr/include/python3.8/cpython
+baseline2.c
+object.h
+stddef.h
+types.h
+struct_FILE.h
+FILE.h
+stdio.h
+sys_errlist.h
+errno.h
+stdint-intn.h
+unistd.h
+getopt_core.h
+stdint-uintn.h
+pyport.h
+math.h
+time.h
+pymem.h
+object.h
+methodobject.h
+structmember.h
+descrobject.h
+pyhash.h
+pydebug.h
+bytearrayobject.h
+bytesobject.h
+unicodeobject.h
+unicodeobject.h
+longobject.h
+longintrepr.h
+boolobject.h
+floatobject.h
+complexobject.h
+rangeobject.h
+memoryobject.h
+tupleobject.h
+tupleobject.h
+listobject.h
+dictobject.h
+dictobject.h
+odictobject.h
+enumobject.h
+setobject.h
+moduleobject.h
+funcobject.h
+classobject.h
+fileobject.h
+fileobject.h
+pycapsule.h
+traceback.h
+frameobject.h
+sliceobject.h
+cellobject.h
+iterobject.h
+pystate.h
+pystate.h
+genobject.h
+weakrefobject.h
+structseq.h
+namespaceobject.h
+picklebufobject.h
+codecs.h
+pyerrors.h
+context.h
+modsupport.h
+code.h
+pythonrun.h
+ceval.h
+import.h
+bltinmodule.h
+pyctype.h
+objimpl.h
+abstract.h
+warnings.h
+pylifecycle.h
+eval.h
+9ft 
+GJ<X
+J<XX
+< . 
+	Xt..
+=  .
+XX<t
+4<<f
+XX<X
+~f:?
+v<:=
+BX-;
+ -;;
+>:L:
+v<::
+"<X<
+J?:i
+f<XX
+jX;;
+y<;,;
+H<9;
+)+<f
+%.<<
+$<<<
+X J..
+B<X.
+__pyx_k_HandEvaluator
+hashsalt
+__pyx_n_s_from_id
+__pyx_k_receive_round_start_message
+PyGen_Type
+attr_name
+pvalue
+Py_tracefunc
+_sys_errlist
+_unused2
+__pyx_k_Baseline2Player_receive_round_re
+__Pyx_GetItemInt_Generic
+_fileno
+func_obj
+__pyx_n_s_small_blind_amount
+lenfunc
+pydefaults
+__pyx_n_s_from_str
+PyModule_GetDict
+__pyx_d
+cython_runtime_dict
+_PyOpcache
+PyExc_ModuleNotFoundError
+func_kwdefaults
+_dictkeysobject
+__pyx_pw_9baseline2_15Baseline2Player_13receive_round_result_message
+PyExc_KeyError
+PyDict_GetItemString
+tp_getattr
+PyExc_TypeError
+__pyx_k_strength
+__pyx_n_s_card_id
+sq_item
+co_argcount
+PyObject_Hash
+__pyx_k_game_players
+allow_none
+nb_add
+PyGetSetDescr_Type
+__pyx_n_s_random
+PyExc_FileNotFoundError
+__pyx_k_Baseline2Player_receive_round_st
+ascii
+ob_refcnt
+__pyx_k_eval_hand
+PyTuple_New
+PyTuple_Type
+sq_ass_item
+__pyx_n_s_big_blind_amount
+__pyx_n_s_super
+PyBaseObject_Type
+empty_list
+__pyx_n_s_player_num
+PyExc_AssertionError
+__pyx_n_s_sample
+__pyx_n_s_eval_hand
+sq_inplace_repeat
+tp_as_async
+_PyAsyncGenWrappedValue_Type
+nb_matrix_multiply
+nb_lshift
+sq_inplace_concat
+ma_used
+tp_is_gc
+co_firstlineno
+_shortbuf
+__pyx_v_deck_ids
+nb_power
+__pyx_v_used
+__pyx_t_10
+__pyx_pw_9baseline2_15Baseline2Player_11receive_game_update_message
+__Pyx_CyFunction_set_defaults
+__pyx_k_montecarlo_simulation
+__Pyx_CyFunction_get_annotations
+am_anext
+from_name
+PyCell_Type
+PyExc_IndentationError
+PyObject_SetItem
+__pyx_n_s_hole_card
+__pyx_k_card_id
+sq_repeat
+__environ
+curexc_value
+__Pyx_PyErr_GivenExceptionMatches
+PyClassMethodDescr_Type
+_PyDict_GetItem_KnownHash
+siphash
+__pyx_k_choiced
+PyExc_SyntaxWarning
+__pyx_n_s_my_score
+sq_concat
+__pyx_n_s_sum
+tp_itemsize
+PyExc_EOFError
+entries
+__pyx_n_s_stack
+PyNullImporter_Type
+initproc
+PyOS_ReadlineFunctionPointer
+PyDict_Size
+PyOS_InputHook
+/home/tunhsiang/courses/FAI/final_project/agents
+PyExc_IOError
+PyGetSetDef
+__pyx_pw_9baseline2_15Baseline2Player_9receive_street_start_message
+invalid_keyword
+__pyx_pw_9baseline2_1find_user_by_uuid
+__pyx_n_s_Baseline2Player
+tp_bases
+__pyx_pw_9baseline2_3gen_cards
+__off_t
+use_cline
+PyExc_TabError
+is_unicode
+ma_version_tag
+__pyx_n_s_i
+__pyx_tuple__24
+co_consts
+__pyx_n_s_s
+__pyx_tuple__28
+PyMethodDescr_Type
+__pyx_k_game_info
+__pyx_v_card_id
+Py_OptimizeFlag
+PyDict_GetItemWithError
+__pyx_k_big_blind_amount
+__pyx_pf_9baseline2_15Baseline2Player_12receive_round_result_message
+__pyx_v_choiced
+_lock
+PyFloat_Type
+PyLongRangeIter_Type
+setattrofunc
+f_valuestack
+__Pyx_check_single_interpreter
+tp_dealloc
+defaults_kwdict
+__pyx_k_game_engine_card
+TRACEMALLOC_NOT_INITIALIZED
+__pyx_pyframe_localsplus_offset
+_PyByteArray_empty_string
+neg_one
+__Pyx_CyFunction_set_annotations
+_typeobject
+nb_floor_divide
+PyMethodObject
+nb_inplace_lshift
+has_cstart
+__pyx_k_hole_card
+__Pyx_PyInt_SubtractObjC
+PyExc_ConnectionRefusedError
+invalid_keyword_type
+__pyx_n_s_seats
+__pyx_find_code_object
+wrapped_i
+f_stacktop
+__pyx_pymod_create
+intern
+__pyx_n_s_fill_community_card
+__pyx_k_round_state
+__pyx_self
+PyExc_ConnectionAbortedError
+func_annotations
+PyExc_OSError
+Py_NoUserSiteDirectory
+PyLongObject
+PyExc_ConnectionError
+__pyx_pymod_exec_baseline2
+__Pyx_CreateCodeObjectForTraceback
+PyExc_BrokenPipeError
+__pyx_k_gen_deck
+PyExc_Warning
+__pyx_n_s_max_round
+PyFunctionObject
+__pyx_k_unused
+nb_index
+tp_richcompare
+_Py_CheckRecursionLimit
+__pyx_v_player
+wstr
+PyExc_StopIteration
+m_free
+PyExc_ChildProcessError
+__Pyx_PyInt_AddObjC
+__Pyx_PyCFunction_FastCall
+c_line
+_IO_write_end
+PyThreadState
+__Pyx_CyFunction_set_qualname
+nb_remainder
+visitproc
+__pyx_k_evaluate_hand
+PyMethod_Type
+__pyx_n_s_declare_action
+__pyx_L4_argument_unpacking_done
+PyNumber_Multiply
+_Py_TrueStruct
+__Pyx_PyObject_Call
+nb_inplace_multiply
+_inittab
+__pyx_n_s_max
+__pyx_n_s_unused
+PyTupleObject
+__pyx_k_opponents_hole
+__pyx_pf_9baseline2_15Baseline2Player___init__
+__Pyx_CyFunction_get_qualname
+co_weakreflist
+Py_VerboseFlag
+num_max
+__pyx_pw_9baseline2_17setup_ai
+__pyx_v_opponents_score
+_frozen
+was_sq_slice
+__tzname
+__pyx_n_s_uuid
+GNU C17 9.4.0 -mtune=generic -march=x86-64 -g -g -g -g -O2 -O2 -fstack-protector-strong -fwrapv -fstack-protector-strong -fPIC -fasynchronous-unwind-tables -fstack-protector-strong -fstack-clash-protection -fcf-protection
+PyMemberDef
+__Pyx_ListComp_Append
+PyImport_Inittab
+interp
+__Pyx_PyObject_CallOneArg
+__pyx_mdef_9baseline2_15Baseline2Player_3declare_action
+ob_type
+__pyx_k_module
+exact
+__pyx_dict_version
+PyExc_PendingDeprecationWarning
+_Py_XDECREF
+tp_free
+__pyx_pf_9baseline2_10_montecarlo_simulation
+__stack_chk_fail
+PyExc_RuntimeWarning
+__pyx_k_Baseline2Player
+co_opcache
+PyMemoryView_Type
+co_opcache_size
+__pyx_k_community_card
+PyModuleDef
+PyVarObject
+owned_stop
+_PyManagedBuffer_Type
+__pyx_L5_argtuple_error
+TRACEMALLOC_INITIALIZED
+c_profileobj
+PyEval_EvalFrameEx
+__pyx_k_player
+__pyx_k_unused_cards
+nb_and
+PyExc_BlockingIOError
+optarg
+_err_stackitem
+PyDictObject
+PyExc_ProcessLookupError
+ma_keys
+tp_call
+async_exc
+__pyx_v_exclude_cards
+_PyNone_Type
+__pyx_pw_9baseline2_11_montecarlo_simulation
+gilstate_counter
+f_localsplus
+ob_item
+PyObject_GC_UnTrack
+PyMethod_New
+tp_str
+_PyCFunctionFastWithKeywords
+PyUnicode_Decode
+was_sq_ass_slice
+PyExc_RuntimeError
+co_filename
+__Pyx_PyObject_IsTrue
+ternaryfunc
+PyExc_ArithmeticError
+ob_base
+PyTypeObject
+PyTraceBack_Type
+__pyx_CyFunction_methods
+__pyx_moduledef_slots
+__pyx_n_s_Baseline2Player_receive_round_st
+PyPickleBuffer_Type
+__pyx_n_s_winners
+PyExc_BufferError
+Py_InspectFlag
+current_id
+_PyAIterWrapper_Type
+__pyx_v_nb_simulation
+__pyx_k_estimate_hole_card_win_rate
+__pyx_mdef_9baseline2_15Baseline2Player_5receive_game_start_message
+__pyx_n_s_Baseline2Player_receive_street_s
+__pyx_k_deck_ids
+__pyx_mdef_9baseline2_3gen_cards
+__pyx_dict_cached_value
+__pyx_n_s_prepare
+sq_contains
+__Pyx_CyFunction_set_name
+m_module
+padding
+__pyx_n_s_gen_hand_rank_info
+PyEval_EvalCodeEx
+_chain
+__pyx_n_s_gen_deck
+tp_setattr
+PyCode_Type
+PySequence_Contains
+__Pyx_ErrRestoreInState
+/home/tunhsiang/courses/FAI/final_project/agents/baseline2.c
+PyObject_GetAttrString
+richcmpfunc
+unsigned char
+PyModuleDef_Type
+__pyx_n_s_exclude_cards
+__Pyx__PyObject_CallOneArg
+djbx33a
+PyProperty_Type
+__pyx_k_card
+mp_ass_subscript
+PyExc_IsADirectoryError
+__pyx_k_receive_game_start_message
+__pyx_k_receive_round_result_message
+PyDictRevIterItem_Type
+initialized
+_IO_lock_t
+ptraceback
+__pyx_k_self
+PyExc_UnboundLocalError
+PyModule_NewObject
+__pyx_k_winners
+__pyx_k_init
+__pyx_k_round_count
+__pyx_v_round_state
+tp_dictoffset
+__pyx_v_game_info
+PyObject_GC_Track
+PyExc_GeneratorExit
+PyNumberMethods
+code_line
+PyMethodDef
+tp_finalize
+PyBytes_FromStringAndSize
+m_init
+__pyx_n_s_nb_simulation
+function_name
+__pyx_t_3
+__pyx_mdef_9baseline2_13_fill_community_card
+PyFrozenSet_Type
+exc_type2
+__pyx_t_5
+__pyx_mdef_9baseline2_15Baseline2Player_11receive_game_update_message
+exc_type1
+mp_subscript
+f_gen
+tp_clear
+Py_QuietFlag
+__pyx_k_baseline2_py
+__pyx_v_hole_card
+_PyMethodWrapper_Type
+func_globals
+PyDictIterKey_Type
+__pyx_v_seats
+__Pyx_CyFunction_get_defaults
+__pyx_v_winners
+PyExc_SystemExit
+function
+Py_FileSystemDefaultEncoding
+PyUnicode_Compare
+fastlocals
+PyModuleDef_Base
+PyUnicode_FromString
+use_tracing
+__pyx_b
+PyList_Type
+__pyx_f
+func_classobj
+__pyx_n_s_deck_ids
+__pyx_m
+nb_bool
+f_trace_opcodes
+__pyx_r
+_PySet_Dummy
+PyCapsule_Type
+__pyx_v_win_count
+co_freevars
+__pyx_mdef_9baseline2_15Baseline2Player_9receive_street_start_message
+defaults_pyobjects
+__pyx_k_exclude_ids
+__pyx_CyFunction_getsets
+__pyx_n_s_test
+tp_init
+__pyx_v_street
+cyfunc
+__pyx_moduledef
+objobjargproc
+ob_size
+__Pyx_CyFunction_get_self
+__pyx_pw_9baseline2_15Baseline2Player_5receive_game_start_message
+__pyx_pf_9baseline2_6gen_deck
+PyInterpreterState_GetID
+tp_dict
+__Pyx_PyInt_From_long
+__pyx_v_action
+PyExc_FileExistsError
+_IO_write_ptr
+tp_as_mapping
+__pyx_k_amount
+__pyx_k_cards_str
+setattrfunc
+__pyx_mdef_9baseline2_17setup_ai
+__Pyx_CyFunction_get_dict
+vret
+__Pyx_GetItemInt_Fast
+first_kw_arg
+__pyx_k_hand_info
+__pyx_k_rule
+PySlice_Type
+__pyx_k_to_id
+__pyx_k_used_card
+PyList_New
+__pyx_pf_9baseline2_16setup_ai
+PyExc_NotImplementedError
+__pyx_v_valid_actions
+__pyx_int_53
+binaryfunc
+__pyx_k_prepare
+__Pyx_CodeObjectCacheEntry
+PyObject_Size
+PyMemberDescr_Type
+PySlice_New
+__pyx_n_s_hand_info
+__pyx_k_BasePokerPlayer
+__pyx_k_round_start_stack
+__Pyx_CodeObjectCache
+__pyx_codeobj__3
+PyUnicode_AsUTF8
+rtversion
+__pyx_codeobj__8
+__pyx_n_s__6
+m_doc
+zerodivision_check
+new_max
+kwds2
+__pyx_empty_unicode
+bf_getbuffer
+co_zombieframe
+found_dot
+vectorcallfunc
+__pyx_float_0_25
+moddict
+little
+getiterfunc
+_PyCoroWrapper_Type
+_Py_ctype_tolower
+ssizeargfunc
+cyfunctions
+same
+PyMem_Realloc
+__pyx_pf_9baseline2_15Baseline2Player_8receive_street_start_message
+exc_state
+__pyx_k_game_engine_hand_evaluator
+TRACEMALLOC_FINALIZED
+getdate_err
+_py_tmp
+Py_UnbufferedStdioFlag
+descrsetfunc
+__pyx_n_s_cline_in_traceback
+tmp_type
+__pyx_k_range
+PyImport_ImportModuleLevelObject
+f_lasti
+__Pyx_PyObject_Call2Args
+PyWrapperDescr_Type
+__pyx_n_s_game_engine_deck
+__pyx_n_s_hole
+descrgetfunc
+_Py_HashSecret_t
+__pyx_n_s_evaluate_hand
+__pyx_pf_9baseline2_15Baseline2Player_4receive_game_start_message
+__pyx_n_s_valid_actions
+co_kwonlyargcount
+nb_inplace_add
+__pyx_k_Baseline2Player_receive_game_upd
+nb_reserved
+__pyx_n_s_main
+__Pyx_CalculateMetaclass
+on_delete
+co_code
+_Py_INCREF
+_IO_save_base
+PyThreadState_Get
+__Pyx_PyObject_CallNoArg
+__pyx_k_random
+__pyx_L3_bool_binop_done
+owned_metaclass
+m_index
+__pyx_n_s_module
+__pyx_n_s_Baseline2Player___init
+PyExc_ImportWarning
+PyErr_WarnEx
+PyUnicode_Type
+__pyx_pf_9baseline2_8evaluate_hand
+reprfunc
+PySortWrapper_Type
+__pyx_code_cache
+__pyx_k_baseline2
+__pyx_CyFunction_members
+_PyThreadState_UncheckedGet
+__pyx_n_s_round_state
+PyNumber_TrueDivide
+PyNumber_Add
+__pyx_k_metaclass
+__pyx_empty_bytes
+curexc_traceback
+argdefs
+Py_DebugFlag
+__Pyx_modinit_type_import_code
+PyLong_FromSsize_t
+__pyx_k_Baseline2Player___init
+PyObject_GetAttr
+__pyx_v_win_rate
+py_funcname
+__pyx_n_s_metaclass
+long_long
+PyList_Append
+co_name
+PyFilter_Type
+PyTryBlock
+__pyx_int_1000
+__pyx_v_need_num
+spec
+__pyx_k_pick_unused_card
+PyStructSequence_UnnamedField
+__pyx_float_1_0
+__Pyx_CyFunction_SetDefaultsTuple
+PyExc_NameError
+_Py_tracemalloc_config
+__pyx_n_s_HandEvaluator
+boundscheck
+overflowed
+signgam
+Py_GetVersion
+PyDict_Type
+__pyx_k_my_score
+Py_hash_t
+__int64_t
+__pyx_k_from_id
+__pyx_pw_9baseline2_5estimate_hole_card_win_rate
+__pyx_lineno
+__uint64_t
+PyFrame_New
+PyObject
+__pyx_CyFunctionObject
+nb_xor
+PyExc_ResourceWarning
+__pyx_k_Deck
+nb_negative
+__Pyx_copy_spec_to_module
+PyUnicode_InternFromString
+__pyx_v_uuid
+PyStdPrinter_Type
+__pyx_k_action
+_PyTraceMalloc_Config
+PyObject_SetAttr
+PyImport_FrozenModules
+co_cell2arg
+PyObject_SetAttrString
+__pyx_L1_error
+_PyAsyncGenASend_Type
+__ssize_t
+__pyx_k_card_num
+PyDictIterItem_Type
+PyODictItems_Type
+__Pyx_CyFunction_clear
+__pyx_k_used
+co_flags
+__pyx_mdef_9baseline2_9evaluate_hand
+__Pyx_Py3ClassCreate
+__pyx_mdef_9baseline2_15Baseline2Player_1__init__
+PyODict_Type
+PyODictIter_Type
+PyTuple_GetSlice
+PyDictKeysObject
+__pyx_k_receive_street_start_message
+__pyx_k_small_blind_amount
+__pyx_insert_code_object
+m_traverse
+__Pyx_CyFunction_set_doc
+pargs
+recursion_critical
+__pyx_k_name
+__timezone
+PyDictProxy_Type
+co_opcache_map
+__Pyx_GetItemInt_List_Fast
+PyCallIter_Type
+__pyx_n_s_game_info
+__pyx_k_import
+__pyx_clineno
+PyBufferProcs
+__pyx_n_s_receive_round_result_message
+PyCmpWrapper_Type
+co_stacksize
+ml_flags
+is_list
+tp_new
+__pyx_v_cards_str
+__pyx_k_super
+PyClassMethod_Type
+kwdefs
+__pyx_builtin_range
+f_executing
+__pyx_v_hand_info
+__pyx_builtin_sum
+more_or_less
+PyModuleDef_Slot
+PyErr_SetObject
+num_expected
+nb_inplace_true_divide
+__pyx_t_6
+_PyErr_StackItem
+__pyx_t_9
+destructor
+PyCFunction
+__pyx_pf_9baseline2_2gen_cards
+im_weakreflist
+__Pyx_CyFunction_get_kwdefaults
+stderr
+result
+__Pyx_CyFunction_get_globals
+__Pyx_check_binary_version
+f_trace
+__pyx_k_receive_game_update_message
+PySet_Type
+PyObject_GC_Del
+__pyx_k_sum
+_Py_ascii_whitespace
+program_invocation_short_name
+__pyx_v_hole
+__pyx_mdef_9baseline2_7gen_deck
+PyExc_UserWarning
+__Pyx_CyFunction_descr_get
+_IO_save_end
+PyContextVar_Type
+tp_del
+__pyx_n_s_doc
+PyRange_Type
+PyInstanceMethod_Type
+__pyx_k_stack
+encoding
+PyErr_Format
+PyEllipsis_Type
+__pyx_n_s_win_count
+use_domain
+stdout
+__Pyx_InitCachedConstants
+__pyx_n_s_receive_round_start_message
+__pyx_tuple__2
+tp_name
+__pyx_tuple__4
+optopt
+__pyx_pw_9baseline2_15_pick_unused_card
+initfunc
+__pyx_n_s_montecarlo_simulation
+__Pyx_IsSubtype
+func_defaults
+__Pyx_CyFunction_get_name
+Py_NoSiteFlag
+__pyx_n_s_amount
+__pyx_pf_9baseline2_find_user_by_uuid
+c_profilefunc
+__pyx_k_Baseline2Player_declare_action
+__pyx_codeobj__11
+__Pyx_CyFunction_InitClassCell
+__pyx_codeobj__14
+tp_as_sequence
+__pyx_codeobj__16
+__pyx_codeobj__18
+PyTraceBack_Here
+tmp_tb
+tp_as_buffer
+__pyx_k_Baseline2Player_receive_street_s
+margs
+func_dict
+tstate
+to_name
+__pyx_pw_9baseline2_15Baseline2Player_1__init__
+nb_inplace_and
+intval
+__pyx_CyFunctionType
+__pyx_pf_9baseline2_15Baseline2Player_10receive_game_update_message
+__pyx_filename
+__pyx_n_s_BasePokerPlayer
+short unsigned int
+__pyx_k_gen_hand_rank_info
+_PyDict_SetItem_KnownHash
+__pyx_codeobj__20
+__pyx_codeobj__22
+__pyx_codeobj__25
+async_gen_firstiter
+__pyx_codeobj__27
+__pyx_codeobj__29
+calculate_metaclass
+PyModule_Type
+__pyx_tuple__7
+__pyx_L0
+__pyx_tuple__9
+__pyx_L4
+PyFloatObject
+PyEnum_Type
+tp_alloc
+__pyx_pf_9baseline2_14_pick_unused_card
+suboffsets
+compact
+__pyx_pw_9baseline2_15Baseline2Player_3declare_action
+__Pyx_PyObject_CallMethO
+__pyx_n_s_card_num
+PyExc_TimeoutError
+__pyx_codeobj__31
+__pyx_codeobj__33
+__pyx_codeobj__35
+__pyx_k_seats
+_PyCFunctionFast
+__pyx_k_nb_player
+__pyx_k_find_user_by_uuid
+trash_delete_nesting
+im_self
+__off64_t
+wchar_t
+__pyx_n_s_game_engine_hand_evaluator
+arg_passed_twice
+__pyx_n_s_strength
+_IO_read_base
+m_clear
+PyZip_Type
+PyErr_Clear
+PyTuple_Pack
+PyTupleIter_Type
+__pyx_n_s_round_start_stack
+_IO_buf_end
+__pyx_CyFunctionType_type
+global_dict
+tp_getattro
+b_handler
+allocfunc
+__Pyx_Py3MetaclassPrepare
+_PyNotImplemented_Type
+__pyx_n_s_Baseline2Player_receive_game_sta
+c_traceobj
+owned_start
+opterr
+__pyx_pf_9baseline2_4estimate_hole_card_win_rate
+__pyx_builtin_max
+__pyx_pyargnames
+PyType_IsSubtype
+m_copy
+max_nframe
+_mode
+PyReversed_Type
+tp_methods
+_IO_write_base
+__pyx_n_s_choiced
+__Pyx_CyFunction_init_defaults
+__pyx_k_hand
+__pyx_v_unused_cards
+tp_mro
+PyExc_MemoryError
+__pyx_args
+__pyx_k_max
+PyExc_BaseException
+_Py_SwappedOp
+_PyWeakref_ProxyType
+__Pyx_ImportFrom
+PyContext_Type
+__pyx_n_s_receive_game_update_message
+PyContextToken_Type
+PyExc_FloatingPointError
+modname
+__pyx_builtin_super
+PyListIter_Type
+f_code
+main_interpreter_id
+nb_or
+__pyx_k_street
+ma_values
+func_qualname
+__pyx_n_s_street
+format
+unaryfunc
+_IO_marker
+PyCFunctionWithKeywords
+PyDict_SetItem
+__pyx_mdef_9baseline2_15_pick_unused_card
+__pyx_n_s_hand
+PyByteArray_Type
+limit
+__pyx_temp
+__pyx_cython_runtime
+_Py_ctype_table
+__pyx_methods
+nb_float
+__pyx_k_opponents_score
+__pyx_v_unused
+PyExc_SystemError
+kw_name
+__pyx_t_11
+PyDictValues_Type
+PyExc_ValueError
+_Py_PackageContext
+traverseproc
+context
+__Pyx_modinit_function_import_code
+tp_vectorcall_offset
+__pyx_v_community_card
+inquiry
+func_code
+nb_invert
+f_lineno
+has_cstop
+ml_doc
+_IO_codecvt
+allow_py2_metaclass
+ml_name
+__Pyx_is_valid_index
+PyExc_IndexError
+__pyx_n_s_player
+PySeqIter_Type
+num_pos_args
+__Pyx_RaiseArgtupleInvalid
+long double
+PyDictKeys_Type
+kw_args
+PyExc_Exception
+func_closure
+tp_as_number
+__pyx_n_s_action
+__Pyx_CyFunction_New
+PyStaticMethod_Type
+Py_BytesWarningFlag
+PyAsyncMethods
+PyUnicode_FromStringAndSize
+__pyx_k_gen_cards
+tp_weaklistoffset
+PyDict_SetItemString
+__pyx_k_cline_in_traceback
+PyFrameObject
+ml_meth
+__pyx_pf_9baseline2_15Baseline2Player_6receive_round_start_message
+__Pyx_CyFunction_CallAsMethod
+is_true
+PyMem_Malloc
+readonly
+tp_doc
+context_ver
+getattrofunc
+__Pyx_InitCachedBuiltins
+py_line
+func_module
+__pyx_v_round_count
+co_varnames
+func_weakreflist
+__pyx_pf_9baseline2_15Baseline2Player_2declare_action
+PyListRevIter_Type
+__pyx_n_s_Baseline2Player_declare_action
+__Pyx_AddTraceback
+__pyx_CyFunction_init
+__Pyx_CyFunction_get_code
+PySequenceMethods
+stdin
+__pyx_n_s_import
+__Pyx_InBases
+__Pyx_GetBuiltinName
+PyInit_baseline2
+on_delete_data
+__pyx_n_s_receive_street_start_message
+__pyx_k_setup_ai
+tp_weaklist
+_IO_buf_base
+bufferinfo
+__Pyx_modinit_global_init_code
+__pyx_n_s_card
+__pyx_n_s_base_cards
+newfunc
+PyMap_Type
+__pyx_float_0_8
+__pyx_n_s_cards_str
+hashfunc
+getattrfunc
+__pyx_int_4000
+__pyx_n_s_self
+__pyx_mdef_9baseline2_1find_user_by_uuid
+_IO_read_end
+__pyx_n_s_init
+__pyx_n_s_used_card
+PyExc_ReferenceError
+__Pyx_InitGlobals
+f_blockstack
+__Pyx_CyFunction_set_dict
+__pyx_n_s_Baseline2Player_receive_round_re
+_IO_FILE
+__pyx_n_s_Baseline2Player_receive_game_upd
+__pyx_t_1
+__pyx_t_2
+_IO_wide_data
+__pyx_t_4
+tmptype
+PyExc_NotADirectoryError
+__pyx_t_7
+__pyx_t_8
+PyExc_DeprecationWarning
+__pyx_k_uuid
+__Pyx_CyFunction_traverse
+__Pyx_ParseOptionalKeywords
+__Pyx_PySequence_ContainsTF
+__pyx_mdef_9baseline2_5estimate_hole_card_win_rate
+__pyx_v_exclude_ids
+curexc_type
+shape
+__pyx_cfilenm
+tp_hash
+num_min
+rt_from_call
+PyByteArrayIter_Type
+suffix
+PyExc_UnicodeWarning
+PyCode_New
+ndim
+ssizeobjargproc
+PyDict_Next
+__pyx_v_nb_player
+tp_vectorcall
+empty_dict
+co_posonlyargcount
+PyExc_RecursionError
+__Pyx_RaiseDoubleKeywordsError
+tp_version_tag
+PyOS_snprintf
+__pyx_n_s_game_engine_card
+c_tracefunc
+func_name
+__pyx_n_s_gen_cards
+defaults_size
+py_frame
+__pad5
+__Pyx_PyErr_GivenExceptionMatchesTuple
+__pyx_k_max_round
+getbufferproc
+PyDict_New
+__pyx_k_qualname
+py_code
+_PyLong_Zero
+Py_IsolatedFlag
+PyObject_Free
+__pyx_module_is_main_baseline2
+max_count
+__Pyx_CyFunction_repr
+nbases
+PyFloat_FromDouble
+_markers
+setter
+previous_item
+am_await
+PyObject_Not
+PyExc_EnvironmentError
+f_back
+kwtuple
+__pyx_n_s_opponents_hole
+PyModuleDef_Init
+tp_members
+__Pyx_ErrFetchInState
+arg1
+arg2
+__pyx_n_s_rule
+tp_traverse
+_PyObject_GC_New
+mp_length
+ready
+visit
+PyErr_ExceptionMatches
+__Pyx__GetModuleGlobalName
+PyImport_AddModule
+am_aiter
+argc
+PyUnicode_FromFormat
+nb_inplace_xor
+__pyx_n_s_baseline2
+_PyLong_DigitValue
+tp_subclasses
+nb_inplace_power
+__pyx_pw_9baseline2_13_fill_community_card
+__pyx_bisect_code_objects
+co_names
+_Py_DECREF
+const_zero
+_Py_HashSecret
+tp_setattro
+PyBool_Type
+freefunc
+__uint32_t
+__pyx_codeobj__36
+co_opcache_flag
+nb_multiply
+__Pyx_CyFunction_get_doc
+num_found
+__daylight
+m_base
+__pyx_n_s_setup_ai
+nb_true_divide
+__pyx_n_s_game_players
+tp_getset
+__Pyx_CyFunction_reduce
+f_locals
+PyLong_Type
+tp_iternext
+PyExc_BytesWarning
+PySetIter_Type
+__Pyx_PyDict_GetItem
+_PyNamespace_Type
+sq_length
+__pyx_pw_9baseline2_7gen_deck
+__pyx_k__6
+__Pyx_CyFunction_Call
+PyCode_NewEmpty
+_PyAsyncGenAThrow_Type
+__pyx_k_Card
+tp_descr_get
+Py_FrozenFlag
+__pyx_n_s_round_count
+_py_start
+tp_iter
+__Pyx_modinit_variable_export_code
+nb_inplace_floor_divide
+__Pyx_CyFunction_CallMethod
+program_invocation_name
+PyBytes_Type
+strides
+__pyx_n_s_pick_unused_card
+PyCoro_Type
+expat
+PyDictRevIterValue_Type
+_longobject
+PyDictItems_Type
+__pyx_codeobj__5
+_PyLong_One
+__pyx_n_s_find_user_by_uuid
+m_ml
+tp_base
+nb_rshift
+PyErr_SetNone
+f_trace_lines
+__pyx_int_0
+__pyx_int_1
+__pyx_int_2
+__pyx_empty_tuple
+__pyx_int_4
+_freeres_buf
+PyExc_ImportError
+f_globals
+__pyx_tuple__10
+__pyx_tuple__12
+__pyx_tuple__13
+PyASCIIObject
+__pyx_tuple__15
+__pyx_k_win_count
+exc_info
+__pyx_n_s_opponents_score
+__pyx_tuple__19
+Py_hexdigits
+bf_releasebuffer
+PyExc_UnicodeError
+async_gen_finalizer
+PyLong_FromLong
+tp_print
+long long unsigned int
+recursion_depth
+__pyx_v_self
+_cur_column
+PyTuple_GetItem
+releasebufferproc
+PyDictIterValue_Type
+kind
+_PyWeakref_CallableProxyType
+__pyx_k_declare_action
+__pyx_v_card
+nb_inplace_remainder
+__pyx_k_exclude_cards
+__pyx_tuple__21
+__pyx_tuple__23
+thread_id
+_py_slice
+__pyx_k_test
+__pyx_k_nb_simulation
+_py_stop
+__pyx_n_s_qualname
+__pyx_k_i
+__Pyx_PyObject_GetSlice
+__pyx_string_tab
+__pyx_k_s
+m_slots
+defaults_tuple
+PyCodeObject
+__pyx_n_s_exclude_ids
+Py_HashRandomizationFlag
+__pyx_k_win_rate
+PyNumber_Subtract
+__Pyx_PyFunction_FastCallDict
+nb_absolute
+__pyx_k_need_num
+PyExc_KeyboardInterrupt
+_IO_backup_base
+__pyx_tuple__30
+__pyx_tuple__32
+__pyx_tuple__34
+_IO_read_ptr
+PyErr_Occurred
+PyListObject
+new_args
+coroutine_origin_tracking_depth
+__pyx_n_s_to_id
+__Pyx_PyFunction_FastCallNoKw
+im_func
+internal
+trash_delete_later
+__pyx_L3_error
+__Pyx_CyFunction_get_closure
+_freeres_list
+PyExc_UnicodeTranslateError
+Py_FileSystemDefaultEncodeErrors
+Py_DontWriteBytecodeFlag
+f_iblock
+__pyx_k_sample
+nb_inplace_or
+__Pyx_inner_PyErr_GivenExceptionMatches2
+__Pyx_PyObject_GetAttrStr
+m_methods
+PyObject_RichCompare
+_sys_nerr
+PyObject_ClearWeakRefs
+m_size
+__pyx_k_Baseline2Player_receive_game_sta
+ob_fval
+__Pyx_CyFunction_set_kwdefaults
+tp_repr
+PyExc_AttributeError
+tp_cache
+__pyx_n_s_Deck
+PyExc_LookupError
+nargs
+__pyx_mdef_9baseline2_15Baseline2Player_13receive_round_result_message
+Py_ssize_t
+PyBytesIter_Type
+Py_UTF8Mode
+__pyx_pf_9baseline2_12_fill_community_card
+_old_offset
+PyExc_OverflowError
+nb_inplace_rshift
+__pyx_mdef_9baseline2_11_montecarlo_simulation
+Py_HasFileSystemDefaultEncoding
+defaults_getter
+PyODictValues_Type
+__Pyx_StringTabEntry
+_Py_CheckRecursiveCall
+PyUnicodeIter_Type
+PyComplex_Type
+_Py_NotImplementedStruct
+__pyx_v__
+optind
+nb_positive
+PyFunction_Type
+long long int
+__pyx_n_s_used
+__pyx_v_i
+_Py_Dealloc
+PyExc_UnicodeDecodeError
+_Py_NoneStruct
+stackcheck_counter
+_flags2
+__pyx_k_from_str
+PyMappingMethods
+_PyWeakref_RefType
+co_nlocals
+prefix
+__pyx_n_s_range
+PyObject_GetItem
+f_builtins
+__pyx_k_hole
+__Pyx_CyFunction_Init
+PyObject_GetIter
+__Pyx_modinit_variable_import_code
+kwargs
+PyExc_SyntaxError
+_PyOS_ReadlineTState
+__pyx_v_opponents_hole
+__pyx_n_s_name
+modules
+__pyx_v_s
+__pyx_n_s_community_card
+__pyx_kp_s_baseline2_py
+PySuper_Type
+__pyx_k_main
+PyCFunction_Type
+allocated
+tp_flags
+__pyx_v_used_card
+PyExc_ZeroDivisionError
+Py_InteractiveFlag
+__Pyx_CyFunction_dealloc
+__Pyx_Import
+PyImport_GetModuleDict
+_Py_XINCREF
+wraparound
+__pyx_k_player_num
+use_cline_obj
+ob_digit
+__pyx_tuple__17
+interned
+PyODictKeys_Type
+_PyObject_GetDictPtr
+nb_subtract
+PyType_Type
+b_level
+PyType_Ready
+__pyx_n_s_estimate_hole_card_win_rate
+__Pyx_CLineForTraceback
+__Pyx_modinit_type_init_code
+PyFrame_Type
+co_extra
+__pyx_n_s_Card
+PyExc_ConnectionResetError
+argname
+tmp_value
+__pyx_n_s_nb_player
+__pyx_v_base_cards
+PyDictRevIterKey_Type
+__pyx_k_doc
+__Pyx_InitStrings
+__pyx_k_valid_actions
+__pyx_n_s_receive_game_start_message
+PyExc_InterruptedError
+__pyx_tuple_
+_Py_EllipsisObject
+PyExc_StopAsyncIteration
+arg0
+PyErr_SetString
+cached_type
+PyRangeIter_Type
+PyCFunctionObject
+__pyx_n_s_unused_cards
+inplace
+from_list
+iternextfunc
+__pyx_pw_9baseline2_15Baseline2Player_7receive_round_start_message
+__pyx_n_s_win_rate
+PyExc_PermissionError
+co_lnotab
+__pyx_tuple__26
+PyExc_UnicodeEncodeError
+__Pyx_PyObject_SetAttrStr
+slot
+nb_int
+__pyx_v_my_score
+__pyx_n_s_need_num
+__pyx_pw_9baseline2_9evaluate_hand
+_Py_ctype_toupper
+tp_descr_set
+__Pyx_modinit_function_export_code
+Py_buffer
+__Pyx_FetchCommonType
+Py_IgnoreEnvironmentFlag
+__pyx_k_game_engine_deck
+func_doc
+short int
+PyExc_FutureWarning
+fake_module
+prep
+prev
+_vtable_offset
+__pyx_kwds
+nb_inplace_matrix_multiply
+tp_basicsize
+__pyx_k_base_cards
+nb_inplace_subtract
+__pyx_k_fill_community_card
+_Py_FalseStruct
+__pyx_mdef_9baseline2_15Baseline2Player_7receive_round_start_message
+co_cellvars
+__Pyx__CyFunction_dealloc
+ctversion
+is_str
+nb_divmod
+__pyx_v_card_num
+objobjproc
+__pyx_pyinit_module
+is_unsigned
+PyAsyncGen_Type
+PyInterpreterState
+ $0)
+baseline2.c
+__Pyx_CyFunction_get_qualname
+__Pyx_CyFunction_get_self
+__Pyx_CyFunction_get_globals
+__Pyx_CyFunction_get_closure
+__Pyx_CyFunction_get_code
+__pyx_bisect_code_objects
+__Pyx_PyCFunction_FastCall
+__Pyx_CyFunction_get_annotations
+__Pyx_CyFunction_get_dict
+__Pyx_CyFunction_CallMethod
+__Pyx_PyObject_GetAttrStr
+__Pyx_CyFunction_descr_get
+__Pyx_CyFunction_get_name
+__Pyx_CyFunction_repr
+__Pyx_PyFunction_FastCallNoKw
+__pyx_pyframe_localsplus_offset
+__Pyx_CyFunction_init_defaults
+__Pyx_CyFunction_get_kwdefaults
+__Pyx_CyFunction_get_defaults
+__Pyx_CyFunction_set_doc
+__Pyx_CyFunction_clear
+__Pyx_CyFunction_dealloc
+__Pyx_copy_spec_to_module
+__pyx_pymod_create
+main_interpreter_id.16986
+__pyx_m
+__Pyx_CyFunction_traverse
+__Pyx_ImportFrom
+__Pyx_CyFunction_get_doc
+__Pyx_PyDict_GetItem
+__Pyx_CyFunction_CallAsMethod
+__Pyx_CyFunction_set_annotations
+__Pyx_CyFunction_set_kwdefaults
+__Pyx_CyFunction_set_defaults
+__Pyx_CyFunction_set_dict
+__Pyx_CyFunction_set_qualname
+__Pyx_CyFunction_set_name
+__Pyx_Import.constprop.0
+__Pyx_CyFunction_New.constprop.0
+__pyx_CyFunctionType
+__Pyx_PyInt_SubtractObjC.isra.0.constprop.0
+__Pyx_PyFunction_FastCallDict.constprop.0
+__Pyx_ParseOptionalKeywords.constprop.0
+__Pyx_CyFunction_reduce
+__Pyx_PyErr_GivenExceptionMatches.part.0
+__Pyx_GetBuiltinName
+__pyx_b
+__Pyx__GetModuleGlobalName
+__pyx_d
+__Pyx__PyObject_CallOneArg
+__Pyx_PyObject_Call2Args
+__Pyx_AddTraceback
+__pyx_cython_runtime
+__pyx_dict_version.17642
+__pyx_dict_cached_value.17643
+__pyx_n_s_cline_in_traceback
+__pyx_code_cache
+__pyx_pw_9baseline2_15Baseline2Player_13receive_round_result_message
+__pyx_n_s_round_state
+__pyx_pyargnames.16871
+__pyx_n_s_self
+__pyx_n_s_winners
+__pyx_n_s_hand_info
+__pyx_pw_9baseline2_15Baseline2Player_11receive_game_update_message
+__pyx_n_s_action
+__pyx_pyargnames.16830
+__pyx_pw_9baseline2_15Baseline2Player_9receive_street_start_message
+__pyx_n_s_street
+__pyx_pyargnames.16790
+__pyx_pymod_exec_baseline2
+__pyx_empty_tuple
+__pyx_empty_bytes
+__pyx_CyFunctionType_type
+__pyx_string_tab
+__pyx_float_0_8
+__pyx_float_1_0
+__pyx_float_0_25
+__pyx_int_0
+__pyx_int_1
+__pyx_int_2
+__pyx_int_4
+__pyx_int_53
+__pyx_int_1000
+__pyx_int_4000
+__pyx_n_s_sum
+__pyx_builtin_sum
+__pyx_n_s_main
+__pyx_n_s_name
+__pyx_n_s_range
+__pyx_builtin_range
+__pyx_n_s_max
+__pyx_builtin_max
+__pyx_n_s_super
+__pyx_builtin_super
+__pyx_tuple_
+__pyx_n_s_player
+__pyx_n_s_uuid
+__pyx_n_s_seats
+__pyx_n_s_find_user_by_uuid
+__pyx_kp_s_baseline2_py
+__pyx_codeobj__3
+__pyx_n_s_s
+__pyx_n_s_cards_str
+__pyx_n_s_gen_cards
+__pyx_codeobj__5
+__pyx_n_s_win_count
+__pyx_n_s__6
+__pyx_n_s_community_card
+__pyx_n_s_hole_card
+__pyx_n_s_nb_player
+__pyx_n_s_nb_simulation
+__pyx_n_s_estimate_hole_card_win_rate
+__pyx_codeobj__8
+__pyx_tuple__9
+__pyx_n_s_card
+__pyx_n_s_i
+__pyx_n_s_exclude_ids
+__pyx_n_s_deck_ids
+__pyx_n_s_exclude_cards
+__pyx_n_s_gen_deck
+__pyx_codeobj__11
+__pyx_tuple__12
+__pyx_n_s_evaluate_hand
+__pyx_codeobj__14
+__pyx_n_s_hole
+__pyx_n_s_opponents_hole
+__pyx_n_s_unused_cards
+__pyx_n_s_my_score
+__pyx_n_s_opponents_score
+__pyx_n_s_montecarlo_simulation
+__pyx_codeobj__16
+__pyx_n_s_need_num
+__pyx_n_s_used_card
+__pyx_n_s_base_cards
+__pyx_n_s_fill_community_card
+__pyx_codeobj__18
+__pyx_n_s_card_id
+__pyx_n_s_choiced
+__pyx_n_s_unused
+__pyx_n_s_used
+__pyx_n_s_card_num
+__pyx_n_s_pick_unused_card
+__pyx_codeobj__20
+__pyx_n_s_init
+__pyx_codeobj__22
+__pyx_tuple__23
+__pyx_n_s_win_rate
+__pyx_n_s_valid_actions
+__pyx_n_s_declare_action
+__pyx_codeobj__25
+__pyx_n_s_game_info
+__pyx_n_s_receive_game_start_message
+__pyx_codeobj__27
+__pyx_n_s_round_count
+__pyx_n_s_receive_round_start_message
+__pyx_codeobj__29
+__pyx_n_s_receive_street_start_message
+__pyx_codeobj__31
+__pyx_n_s_receive_game_update_message
+__pyx_codeobj__33
+__pyx_n_s_receive_round_result_message
+__pyx_codeobj__35
+__pyx_n_s_setup_ai
+__pyx_codeobj__36
+__pyx_n_s_BasePokerPlayer
+__pyx_n_s_game_players
+__pyx_n_s_random
+__pyx_n_s_Card
+__pyx_n_s_game_engine_card
+__pyx_n_s_Deck
+__pyx_n_s_game_engine_deck
+__pyx_n_s_HandEvaluator
+__pyx_n_s_game_engine_hand_evaluator
+__pyx_mdef_9baseline2_1find_user_by_uuid
+__pyx_n_s_baseline2
+__pyx_mdef_9baseline2_3gen_cards
+__pyx_mdef_9baseline2_5estimate_hole_card_win_rate
+__pyx_mdef_9baseline2_7gen_deck
+__pyx_mdef_9baseline2_9evaluate_hand
+__pyx_mdef_9baseline2_11_montecarlo_simulation
+__pyx_mdef_9baseline2_13_fill_community_card
+__pyx_mdef_9baseline2_15_pick_unused_card
+__pyx_dict_version.17018
+__pyx_dict_cached_value.17019
+__pyx_n_s_prepare
+__pyx_n_s_Baseline2Player
+__pyx_n_s_module
+__pyx_n_s_qualname
+__pyx_mdef_9baseline2_15Baseline2Player_1__init__
+__pyx_n_s_Baseline2Player___init
+__pyx_mdef_9baseline2_15Baseline2Player_3declare_action
+__pyx_n_s_Baseline2Player_declare_action
+__pyx_mdef_9baseline2_15Baseline2Player_5receive_game_start_message
+__pyx_n_s_Baseline2Player_receive_game_sta
+__pyx_mdef_9baseline2_15Baseline2Player_7receive_round_start_message
+__pyx_n_s_Baseline2Player_receive_round_st
+__pyx_mdef_9baseline2_15Baseline2Player_9receive_street_start_message
+__pyx_n_s_Baseline2Player_receive_street_s
+__pyx_mdef_9baseline2_15Baseline2Player_11receive_game_update_message
+__pyx_n_s_Baseline2Player_receive_game_upd
+__pyx_mdef_9baseline2_15Baseline2Player_13receive_round_result_message
+__pyx_n_s_Baseline2Player_receive_round_re
+__pyx_n_s_metaclass
+__pyx_mdef_9baseline2_17setup_ai
+__pyx_n_s_test
+__pyx_pw_9baseline2_15Baseline2Player_5receive_game_start_message
+__pyx_n_s_rule
+__pyx_n_s_max_round
+__pyx_n_s_small_blind_amount
+__pyx_n_s_big_blind_amount
+__pyx_n_s_player_num
+__pyx_pyargnames.16684
+__pyx_pw_9baseline2_13_fill_community_card
+__pyx_dict_version.16450
+__pyx_dict_cached_value.16451
+__pyx_pyargnames.16419
+__pyx_pw_9baseline2_15Baseline2Player_7receive_round_start_message
+__pyx_dict_version.16765
+__pyx_dict_cached_value.16766
+__pyx_n_s_stack
+__pyx_n_s_round_start_stack
+__pyx_pyargnames.16729
+__pyx_pw_9baseline2_17setup_ai
+__pyx_dict_version.16916
+__pyx_dict_cached_value.16917
+__pyx_pw_9baseline2_9evaluate_hand
+__pyx_dict_version.16300
+__pyx_dict_cached_value.16301
+__pyx_n_s_gen_hand_rank_info
+__pyx_n_s_hand
+__pyx_n_s_strength
+__pyx_dict_version.16306
+__pyx_dict_cached_value.16307
+__pyx_n_s_eval_hand
+__pyx_pyargnames.16265
+__pyx_pw_9baseline2_15Baseline2Player_1__init__
+__pyx_pyargnames.16555
+__pyx_pw_9baseline2_7gen_deck
+__pyx_dict_version.16227
+__pyx_dict_cached_value.16228
+__pyx_n_s_from_str
+__pyx_dict_version.16244
+__pyx_dict_cached_value.16245
+__pyx_n_s_to_id
+__pyx_pyargnames.16183
+__pyx_pw_9baseline2_15Baseline2Player_3declare_action
+__pyx_dict_version.16649
+__pyx_dict_cached_value.16650
+__pyx_dict_version.16657
+__pyx_dict_cached_value.16658
+__pyx_dict_version.16659
+__pyx_dict_cached_value.16660
+__pyx_dict_version.16663
+__pyx_dict_cached_value.16664
+__pyx_n_s_amount
+__pyx_pyargnames.16608
+__pyx_pw_9baseline2_1find_user_by_uuid
+__pyx_pyargnames.16015
+__pyx_pw_9baseline2_11_montecarlo_simulation
+__pyx_dict_version.16373
+__pyx_dict_cached_value.16374
+__pyx_dict_version.16377
+__pyx_dict_cached_value.16378
+__pyx_dict_version.16389
+__pyx_dict_cached_value.16390
+__pyx_pyargnames.16330
+__pyx_dict_version.16396
+__pyx_dict_cached_value.16397
+__pyx_pw_9baseline2_3gen_cards
+__pyx_dict_version.16083
+__pyx_dict_cached_value.16084
+__pyx_pw_9baseline2_15_pick_unused_card
+__pyx_dict_version.16524
+__pyx_dict_cached_value.16525
+__pyx_n_s_sample
+__pyx_dict_version.16533
+__pyx_dict_cached_value.16534
+__pyx_n_s_from_id
+__pyx_pyargnames.16473
+__pyx_pw_9baseline2_5estimate_hole_card_win_rate
+__pyx_dict_version.16160
+__pyx_dict_cached_value.16161
+__pyx_pyargnames.16107
+__pyx_moduledef
+__pyx_CyFunction_methods
+__pyx_CyFunction_members
+__pyx_CyFunction_getsets
+__pyx_k_BasePokerPlayer
+__pyx_k_Baseline2Player
+__pyx_k_Baseline2Player___init
+__pyx_k_Baseline2Player_declare_action
+__pyx_k_Baseline2Player_receive_game_sta
+__pyx_k_Baseline2Player_receive_game_upd
+__pyx_k_Baseline2Player_receive_round_re
+__pyx_k_Baseline2Player_receive_round_st
+__pyx_k_Baseline2Player_receive_street_s
+__pyx_k_Card
+__pyx_k_Deck
+__pyx_k_HandEvaluator
+__pyx_k__6
+__pyx_k_action
+__pyx_k_amount
+__pyx_k_base_cards
+__pyx_k_baseline2
+__pyx_k_baseline2_py
+__pyx_k_big_blind_amount
+__pyx_k_card
+__pyx_k_card_id
+__pyx_k_card_num
+__pyx_k_cards_str
+__pyx_k_choiced
+__pyx_k_cline_in_traceback
+__pyx_k_community_card
+__pyx_k_deck_ids
+__pyx_k_declare_action
+__pyx_n_s_doc
+__pyx_k_doc
+__pyx_k_estimate_hole_card_win_rate
+__pyx_k_eval_hand
+__pyx_k_evaluate_hand
+__pyx_k_exclude_cards
+__pyx_k_exclude_ids
+__pyx_k_fill_community_card
+__pyx_k_find_user_by_uuid
+__pyx_k_from_id
+__pyx_k_from_str
+__pyx_k_game_engine_card
+__pyx_k_game_engine_deck
+__pyx_k_game_engine_hand_evaluator
+__pyx_k_game_info
+__pyx_k_game_players
+__pyx_k_gen_cards
+__pyx_k_gen_deck
+__pyx_k_gen_hand_rank_info
+__pyx_k_hand
+__pyx_k_hand_info
+__pyx_k_hole
+__pyx_k_hole_card
+__pyx_k_i
+__pyx_n_s_import
+__pyx_k_import
+__pyx_k_init
+__pyx_k_main
+__pyx_k_max
+__pyx_k_max_round
+__pyx_k_metaclass
+__pyx_k_module
+__pyx_k_montecarlo_simulation
+__pyx_k_my_score
+__pyx_k_name
+__pyx_k_nb_player
+__pyx_k_nb_simulation
+__pyx_k_need_num
+__pyx_k_opponents_hole
+__pyx_k_opponents_score
+__pyx_k_pick_unused_card
+__pyx_k_player
+__pyx_k_player_num
+__pyx_k_prepare
+__pyx_k_qualname
+__pyx_k_random
+__pyx_k_range
+__pyx_k_receive_game_start_message
+__pyx_k_receive_game_update_message
+__pyx_k_receive_round_result_message
+__pyx_k_receive_round_start_message
+__pyx_k_receive_street_start_message
+__pyx_k_round_count
+__pyx_k_round_start_stack
+__pyx_k_round_state
+__pyx_k_rule
+__pyx_k_s
+__pyx_k_sample
+__pyx_k_seats
+__pyx_k_self
+__pyx_k_setup_ai
+__pyx_k_small_blind_amount
+__pyx_k_stack
+__pyx_k_street
+__pyx_k_strength
+__pyx_k_sum
+__pyx_k_super
+__pyx_k_test
+__pyx_k_to_id
+__pyx_k_unused
+__pyx_k_unused_cards
+__pyx_k_used
+__pyx_k_used_card
+__pyx_k_uuid
+__pyx_k_valid_actions
+__pyx_k_win_count
+__pyx_k_win_rate
+__pyx_k_winners
+__pyx_methods
+__pyx_moduledef_slots
+crtstuff.c
+deregister_tm_clones
+__do_global_dtors_aux
+completed.8061
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+__FRAME_END__
+_fini
+__dso_handle
+_DYNAMIC
+__GNU_EH_FRAME_HDR
+__TMC_END__
+_GLOBAL_OFFSET_TABLE_
+PyUnicode_FromFormat
+PyObject_SetItem
+PyList_New
+PyExc_SystemError
+PyDict_SetItemString
+PyDict_Size
+PyMethod_Type
+_ITM_deregisterTMCloneTable
+PyFloat_Type
+PyTuple_Type
+PyObject_ClearWeakRefs
+_PyThreadState_UncheckedGet
+PyModuleDef_Init
+PyFrame_New
+PyNumber_Add
+PyObject_GetAttrString
+PyImport_AddModule
+PyBytes_FromStringAndSize
+PyObject_SetAttrString
+PyErr_WarnEx
+_Py_Dealloc
+PyModule_NewObject
+PyErr_SetObject
+PyObject_GC_Del
+PyNumber_Multiply
+PyObject_RichCompare
+PyCode_New
+PyImport_GetModuleDict
+PyObject_GC_Track
+__stack_chk_fail@@GLIBC_2.4
+PyExc_RuntimeError
+PyErr_GivenExceptionMatches
+PyErr_SetString
+PyMethod_New
+_PyObject_GC_New
+PyObject_GetItem
+PyExc_TypeError
+PyInterpreterState_GetID
+PyEval_EvalFrameEx
+PySequence_Contains
+PyTuple_GetItem
+PyMem_Realloc
+PyErr_SetNone
+PyErr_ExceptionMatches
+PyOS_snprintf
+PyTraceBack_Here
+PyObject_Not
+PyObject_Free
+PyLong_FromSsize_t
+PyFloat_FromDouble
+PyType_Ready
+PyLong_FromLong
+PyErr_Clear
+PyList_Append
+_Py_CheckRecursiveCall
+_Py_CheckRecursionLimit
+PyExc_KeyError
+_Py_FalseStruct
+__gmon_start__
+PyTuple_New
+PyThreadState_Get
+PyType_Type
+_PyDict_SetItem_KnownHash
+PyObject_SetAttr
+PyErr_Occurred
+_PyDict_GetItem_KnownHash
+Py_OptimizeFlag
+PyTuple_GetSlice
+PyDict_GetItemString
+PyEval_EvalCodeEx
+PyObject_Size
+_Py_NoneStruct
+PyObject_IsTrue
+PyImport_ImportModuleLevelObject
+PyExc_AssertionError
+PyObject_Hash
+PyUnicode_Compare
+_Py_TrueStruct
+PyFunction_Type
+PyDict_New
+PyDict_Type
+PyDict_Next
+PyBaseObject_Type
+PyUnicode_AsUTF8
+PyLong_Type
+PyFrame_Type
+_PyObject_GetDictPtr
+PyUnicode_FromString
+PyObject_GetIter
+PyUnicode_InternFromString
+PyExc_ImportError
+PyDict_SetItem
+PyExc_AttributeError
+PyExc_StopIteration
+PyObject_Call
+PyType_IsSubtype
+PyUnicode_Decode
+PyErr_Format
+PyInit_baseline2
+PySlice_New
+PyExc_NameError
+PyUnicode_FromStringAndSize
+PyModule_GetDict
+_ITM_registerTMCloneTable
+PyObject_GetAttr
+PyCFunction_Type
+__pyx_module_is_main_baseline2
+PyMem_Malloc
+__cxa_finalize@@GLIBC_2.2.5
+PyNumber_Subtract
+PyTuple_Pack
+Py_GetVersion
+PyCode_NewEmpty
+PyNumber_TrueDivide
+PyObject_GC_UnTrack
+PyDict_GetItemWithError
+PyList_Type
+.symtab
+.strtab
+.shstrtab
+.note.gnu.property
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.plt.sec
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.got.plt
+.data
+.bss
+.comment
+.debug_aranges
+.debug_info
+.debug_abbrev
+.debug_line
+.debug_str
+.debug_loc
+.debug_ranges
